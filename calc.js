@@ -31,3 +31,4 @@ function Calc(operator, a, b) {
 }
 
 console.log(Calc('div', 4, 5));
+console.log(Calc('pow', 3, 7));
